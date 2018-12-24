@@ -23,7 +23,7 @@
                     android:text="دخول"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:id="@+id/edtSignUpPhone"
+                    android:id="@+id/btnSignIn"
                     app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="16dp"
                     app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
                     app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="32dp"
@@ -63,7 +63,7 @@
                     app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
                     android:layout_marginLeft="8dp" android:layout_marginStart="8dp"
                     android:layout_marginBottom="64dp"
-                    app:layout_constraintBottom_toTopOf="@+id/edtSignUpPhone" android:id="@+id/textInputLayout"
+                    app:layout_constraintBottom_toTopOf="@+id/btnSignIn" android:id="@+id/textInputLayout"
                     style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
                 <android.support.design.widget.TextInputEditText

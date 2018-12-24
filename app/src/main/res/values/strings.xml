@@ -94,7 +94,7 @@
     <string name="msgSignInRegisterFailed">رقم هاتف موجود مسبقا , ضع رقم غير مستخدم سابقا</string>
     <!-- TODO: change this placeholder text -->
     <string name="msgSignInEmpty">تحقق من ملئ جميع الخانات</string>
-    <string name="msgSignUpWrongNumber"></string>
+    <string name="msgSignUpWrongNumber">تحقق من عدد الأرقام !</string>
     <string name="msgSignInSuccess" type="id">تم الدخول !</string>
     <string name="msgSignInFailed" type="id">تحقق من المعلومات المطروحة !</string>
     <string name="SignInTitle">تسجيل الدخول</string>
